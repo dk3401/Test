@@ -1,0 +1,3 @@
+# ignore tmp file
+.ipynb_checkpoints/
+_build/
